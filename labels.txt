@@ -1,0 +1,9 @@
+111 --Basmati RICE
+121 ---Sonamasuri RICE
+211 --  Gujarat Wheat
+221 --- Kapli wheat
+311 --  OrangeCorn
+321--   YelloCorn
+411--- HorseGramBrown
+422--  HorseGramWhite
+511---Impurities
